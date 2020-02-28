@@ -1,0 +1,19 @@
+{
+  "name": "hello-world-28-02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jasmine spec"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "jasmine": "^3.5.0",
+    "jasmine-node": "^3.0.0"
+  }
+}
